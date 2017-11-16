@@ -1,0 +1,9 @@
+ .navbar {
+	 border: 5px solid black;
+	 background-color:grey;
+	 justify-content: space-around;
+	 
+ }
+ 
+ a{
+ color:white;} 
